@@ -1,7 +1,7 @@
 package fun.samarth.controller;
 
 import fun.samarth.model.Users;
-import fun.samarth.repository.UserRepository;
+import fun.samarth.repo.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
